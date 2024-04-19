@@ -1,0 +1,6 @@
+Public IP Address: 103.255.144.74
+Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: DEEPTHI-PC
+Private IP Address: 10.231.30.182
